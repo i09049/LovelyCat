@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lovely Cat</string>
+    <string name="btMaps">Maps</string>
+    <string name="btUpload">Upload</string>
+</resources>
